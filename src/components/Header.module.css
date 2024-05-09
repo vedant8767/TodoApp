@@ -1,0 +1,15 @@
+.mainsection{
+    background-color: black;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 2px royalblue;
+}
+.textsection{
+    color: aqua;
+    font-size: 5vh;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 0px;
+}

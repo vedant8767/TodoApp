@@ -1,0 +1,30 @@
+.formclass{
+    margin-top: 80px;
+    
+}
+
+.inputclass{
+    width: 500px;
+    height: 50px;
+    outline: none;
+    border: none;
+    box-shadow: 0px 2px 1px rgb(52, 51, 51);
+    border-radius: 7px;
+    font-size: 3vh;
+    margin-left: 350px;
+    text-align: center;
+}
+
+.buttonclass{
+    font-weight: bold;
+    font-size: 2.5vh;
+    border: none;
+    outline: none;
+    background-color: violet;
+    color: black;
+    width: 70px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 20px;
+}
